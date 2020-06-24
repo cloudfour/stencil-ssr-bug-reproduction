@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="/stencil/stencil-components.js"></script>
+</head>
+
+<body>
+  <c4-page>
+      <c4-button>I'm a c4-button!</c4-button>
+  </c4-page>
+</body>
+</html>
